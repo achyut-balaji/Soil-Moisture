@@ -1,4 +1,4 @@
-Date,DOY, Soil_Moisture_10cm (cm3/cm3), Soil_Moisture_20cm (cm3/cm3), Soil_Moisture_40cm (cm3/cm3),Soil_Temp_10cm( C),Soil_Temp_20cm( C),Soil_Temp_40cm( C),
+Date,DOY, Soil_Moisture_10cm (cm3/cm3), Soil_Moisture_20cm (cm3/cm3), Soil_Moisture_40cm (cm3/cm3),Soil_Temp_10cm( C),Soil_Temp_20cm( C),Soil_Temp_40cm( C)
 2010-03-01,60,0.3520,0.4072,0.3845,14.12,11.78,9.437
 2010-03-02,61,0.3543,0.4084,0.3846,14.96,12.10,10.037
 2010-03-03,62,0.3577,0.4106,0.3858,14.93,12.25,9.768
